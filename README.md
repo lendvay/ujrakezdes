@@ -1,0 +1,2 @@
+# ujrakezdes
+Ujrakezdes tananyagok
