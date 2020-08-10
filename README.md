@@ -1,2 +1,2 @@
-# ujrakezdes
-Ujrakezdes tananyagok
+# ujratervezes
+Ujratervezes tananyagok
